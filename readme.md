@@ -146,7 +146,7 @@ http://api.thingspeak.com/update?api_key=<WRITE_API_KEY>&field1=<temp>&field2=<t
 
 ## Hasil Pembacaan Live (Serial Monitor)
 
-![Live Reading](img/live-reading.png)
+![Live Reading](img/live_reading.png)
 
 Contoh output:
 
